@@ -1,0 +1,27 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer utilities {
+    .grow {
+        transition: all .2s ease-in-out;
+    }
+    .grow:hover {
+        transform: scale(1.5);
+        cursor: pointer;
+    }
+    .full-center {
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+    }
+    .grid-order-last {
+        grid-row: 3;
+    }
+    @media (min-width: 1280px) {
+        .grid-order-last {
+            grid-row: auto;
+        }
+    }
+}
