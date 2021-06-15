@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/LatinAmerica-Timeline/static/css/main.f5e45360.chunk.css",
+    "main.js": "/LatinAmerica-Timeline/static/js/main.ff952a0b.chunk.js",
+    "main.js.map": "/LatinAmerica-Timeline/static/js/main.ff952a0b.chunk.js.map",
+    "runtime-main.js": "/LatinAmerica-Timeline/static/js/runtime-main.b9da2276.js",
+    "runtime-main.js.map": "/LatinAmerica-Timeline/static/js/runtime-main.b9da2276.js.map",
+    "static/js/2.7fa0be3b.chunk.js": "/LatinAmerica-Timeline/static/js/2.7fa0be3b.chunk.js",
+    "static/js/2.7fa0be3b.chunk.js.map": "/LatinAmerica-Timeline/static/js/2.7fa0be3b.chunk.js.map",
+    "static/js/3.2f5de319.chunk.js": "/LatinAmerica-Timeline/static/js/3.2f5de319.chunk.js",
+    "static/js/3.2f5de319.chunk.js.map": "/LatinAmerica-Timeline/static/js/3.2f5de319.chunk.js.map",
+    "index.html": "/LatinAmerica-Timeline/index.html",
+    "static/css/main.f5e45360.chunk.css.map": "/LatinAmerica-Timeline/static/css/main.f5e45360.chunk.css.map",
+    "static/js/2.7fa0be3b.chunk.js.LICENSE.txt": "/LatinAmerica-Timeline/static/js/2.7fa0be3b.chunk.js.LICENSE.txt",
+    "static/media/1776-USA.f135b58d.jpg": "/LatinAmerica-Timeline/static/media/1776-USA.f135b58d.jpg",
+    "static/media/2001-argentina.0fb44eca.jpg": "/LatinAmerica-Timeline/static/media/2001-argentina.0fb44eca.jpg",
+    "static/media/colombus-venezuela.1bbb6458.jpg": "/LatinAmerica-Timeline/static/media/colombus-venezuela.1bbb6458.jpg",
+    "static/media/latinAm.e9efbb8e.jpg": "/LatinAmerica-Timeline/static/media/latinAm.e9efbb8e.jpg",
+    "static/media/logo.6ce24c58.svg": "/LatinAmerica-Timeline/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b9da2276.js",
+    "static/js/2.7fa0be3b.chunk.js",
+    "static/css/main.f5e45360.chunk.css",
+    "static/js/main.ff952a0b.chunk.js"
+  ]
+}
