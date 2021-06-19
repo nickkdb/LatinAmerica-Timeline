@@ -135,5 +135,14 @@ export const Events = [
         location: "modern day Uruguay",
         background: "Spanish territories in Uruguay had been giving Buenos Aires (under Portugese rule) competition in trade for years. Thus the Portugese founded this Colony, which is near the border and Buenos Aires. This allowed them to control the competition from this area, allowing Portugal more success.",
         significance: "This was a significant event in the history of Latin America, as the competition between Spain and Portugal at this time set the basis for the impending Spanish-Portugese War. This was of course an important event in Latin American history and preceded the independence movements of Latin America."
+    },
+    {
+        key: "11791",
+        image: pic_1791,
+        heading: "Slave revolt in Saint Dominigue",
+        date: "August 21st, 1791",
+        location: "modern day Haiti",
+        background: "A group over self liberated slaves, led by Toussaint L'Ouverture, rose up against their Masters. Within 10 days, the slave army had taken over the entire Northern Province of the colony.",
+        significance: "This was a significant uprising, which led to the independence of Haiti."
     }
 ]
