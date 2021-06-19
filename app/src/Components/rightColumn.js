@@ -8,7 +8,7 @@ function RightColumn(props) {
     let data= event.map(elem => {
             return (
                 <div className="xl:tw-w-438px 2xl:tw-w-480px tw-mx-auto tw-grid tw-grid-cols-2 xl:tw-block">
-                    <img src={elem.image} alt="image" className="tw-max-w-400px tw-shadow-lg tw-mb-7" />
+                    <img src={elem.image} alt="image" className="xl:tw-max-w-400px xl:tw-max-h-64 tw-shadow-lg tw-mb-7" />
 
                     <div className="tw-pl-10 xl:tw-p-0 tw-text-20px/29px">
                         <h4 className="tw-text-26px/33px 2xl:tw-text-28px/34px tw-mb-7">{elem.heading}</h4>
