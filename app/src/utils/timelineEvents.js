@@ -1,8 +1,12 @@
 import pic_1494 from '../utils/images/1494-tordesillas.jpg';
 import pic_1496 from '../utils/images/1496-domingo.jpg';
 import pic_1498 from '../utils/images/colombus-venezuela.jpg';
+import pic_1500 from '../utils/images/1500-brazil.jpg';
+import pic_1550 from '../utils/images/1550-debate.jpg';
 import pic_1776 from '../utils/images/1776-USA.jpg';
+import pic_2000 from '../utils/images/2000-cochabamba.jpg';
 import pic_2001 from '../utils/images/2001-argentina.jpg';
+import pic_2005 from '../utils/images/2005-morales.jpg';
 import pic_1521 from '../utils/images/1521-Aztecs.jpg';
 import pic_1532 from '../utils/images/1532-Incans.jpg';
 import latinAm from '../utils/images/latinAm.jpg';
@@ -53,7 +57,7 @@ export const Events = [
     {
         key: "1532",
         image: pic_1532,
-        heading: "Conquest ot the Incan Empire",
+        heading: "Spanish Conquest ot the Incan Empire",
         date: "1532-1572",
         location: "Incan Empire, modern day Peru",
         background: "The Incan is one of the most storied, and largest Empire in the pre-colonization era of the Americas. After a power struggle for control of the empire led to a half-decade Civil War, the Incan Empire suffered heavy casualty. In the midst of the Civil War, the Spanish arrived to a weakened Empire, who easily were defeated by the stronger Army. The Incan attempted to recapture control of their Empire many times, with the the of the Incan rebellions taking place 40 years later, in 1572.",
@@ -76,5 +80,50 @@ export const Events = [
         location: "Santo Domingo, modern day Dominican Republic",
         background: "Christopher Colombus first discovered this island (was called Quisqeya by the natives at the time) in 1492. The Spanish returned to the island multiple times over the next few years, and in 1496 officially created their settlement. This settlement became known as Santo Domingo, and was regarded as the 'Gateway to the Caribbean'.",
         significance: "The discovery of Hispanola and the initial settlement made the Spanish was arguably the biggest stepping stone in the Spanish Colonizaiton of the Caribbean Islands. Spanish colonization of Cuba, Puerto Rico, Mexico, along with various other expeditions all were based out of the Spanish settlement in Santo Domingo."
+    },
+    {
+        key: "1550",
+        image: pic_1550,
+        heading: "Debate of Valladolid between De La Casas and Sepulveda",
+        date: "1550",
+        location: "Colegio de San Gregorio, Valladolid Spain",
+        background: "The debate of Valladolid came in the midst of Bartolome De La Casas movement to gain rights and fair treatment for the Indian people. In this debate, Juan Sepulveda made the argument that Indians were less than Human, and it was Spains responsibility to rule those who couldn't rule themselves and convert them to Christianity. De La Casas made the argument that all people were required to be treated justly and Spain had the responsibility to uphold that.",
+        significance: "De La Cases spent over half his life attempting to gain rights for the Indians, and is one of the earliest human rights advocates known to man. Through writings, debates, and attempted swaying of the Monarchy, De La Casas did more for the Indians than possibly any other Spaniards. This event was significant, as it may be De La Casas strongest efforts for human dignity at the time. It was also around this time that De La Casas released one of his most famous writings, 'In Defense of the Indians'."
+    },
+    {
+        key: "1500",
+        image: pic_1500,
+        heading: "Portugese first discover Brazil",
+        date: "1500",
+        location: "modern day Porto Seguro, Brazil",
+        background: "On a voyage meant to find India by traveling around Africa, Pedro Alvares Cabral accidentally landed in Brazil. Cabral and the Portugese claimed Brazil for the Portugese, had peaceful encounters with the Brazilians, and continued on their voyage. Portugal would continue operating in Brazil, and didn't fully and exclusively colonize the territory until 1532, when they set up their first colonial village of Sao Vincente.",
+        significance: "The Portugese Colonization of Brazil was significant, as the Portugese rule over Brazil lasted hundreds of years and Portugese influence in Brazil remains to this day."
+    },
+    {
+        key: "2005",
+        image: pic_2005,
+        heading: "Juan Evo Morales Ayma becomes the first fully indigenous president of Bolivia",
+        date: "December 18th, 2005",
+        location: "Bolivia, South America",
+        background: "Bolivia, a country where over half of the population identifies as Indigenous, had never had an Indigenous leader. Juan Evo Morales Ayma was from the Aymara tribe, born to farmers in a small village. Morales won with a stunning 54% of votes, the first majority in Bolivia in nearly three decades.",
+        significance: "This was a critical win for Indigenous rights and the Indigenous of Bolivia. Latin America as a whole has continued to struggle with Indigenous discrimination and hatred, and this was true during the election of Morales as well. Morales winning brings hope for a new era of government, where Indigenous peoples' votes and voices matter, and government isn't restrictive based on class or ethnic origins."
+    },
+    {
+        key: "2000",
+        image: pic_2000,
+        heading: "Cochabamba Water Wars consume Bolivia",
+        date: "November 1999 - April 2000",
+        location: "Cochabamba Bolivia, South America",
+        background: "In 1999, the Bolivian government began the privatization of many business in the nation, including water supplies across the country. Cochabamba was a city with many poor and Indigenous people, who earned around $100 a month, if that. The company taking over the water supply in Cochabamba hiked the price to around $20 a month, and threatened to shut down water of those who didn't pay. This led to massive riots and protest by the people, and tens of thousands of civilizans racksacked the city and fought police. This ended with a reversion of the new water policy, and the deposing of Bolivia's president.",
+        significance: "This event's significance shows the people's willingness to uprise in a modern day setting. Governments and rulers inclination to create policies that marginalize their nation's poor and natives has been a trend for hundred's of years, but will not continue."
+    },
+    {
+        key: "1665",
+        image: pic_1665,
+        heading: "French turn island of Tortuga to Saint Dominigue colony",
+        date: "1665",
+        location: "modern day Haiti",
+        background: "In 1665 King Louis XIV officially recognized Saint Dominigue as a French colony.",
+        significance: "The significance of the French taking over Saint Dominigue has lasting effects. An incredible amount of African slaves were imported into Hispanola in the coming years, and this colony quickly became one the most profitable of all of the French colonies. This has had a lasting effect on the demographic in Haiti, that we see to this day."
     }
 ]
