@@ -7,6 +7,7 @@ function Application() {
     const startingYears= ['1400s', '1500s', '1600s', '1700s', '1800s', '1900s', '2000s'];
     const period_1400s= ['1494', '1496', '1498'];
     const period_1500s= ['1500', '1521', '1532', '1550'];
+    const period_1600s= ['1665'];
     const period_1700s= ['1743', '1755', '1776'];
     const period_2000s= ['2000', '2001', '2005'];
     const [timePeriod, setPeriod]= useState(startingYears);
@@ -19,6 +20,9 @@ function Application() {
                 break;
             case '1500s':
                 setPeriod(period_1500s);
+                break;
+            case '1600s':
+                setPeriod(period_1600s);
                 break;
             case '1700s':
                 setPeriod(period_1700s);

@@ -3,6 +3,7 @@ import pic_1496 from '../utils/images/1496-domingo.jpg';
 import pic_1498 from '../utils/images/colombus-venezuela.jpg';
 import pic_1500 from '../utils/images/1500-brazil.jpg';
 import pic_1550 from '../utils/images/1550-debate.jpg';
+import pic_1665 from '../utils/images/1665-haiti.jpg';
 import pic_1776 from '../utils/images/1776-USA.jpg';
 import pic_2000 from '../utils/images/2000-cochabamba.jpg';
 import pic_2001 from '../utils/images/2001-argentina.jpg';
