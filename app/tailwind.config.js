@@ -83,10 +83,12 @@ module.exports = {
            'auto-fit': 'repeat(auto-fit, 1fr)'
          },
          gridTemplateRows: {
-          '75/25': '75% 25%'
+          '75/25': '75% 25%',
+          '80/20': '80% 20%'
          },
          maxWidth: {
           '690px': '43.125rem',
+          '400px': '25rem'
          },
          maxHeight: {
           '400px': '25rem',
