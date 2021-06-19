@@ -126,5 +126,14 @@ export const Events = [
         location: "modern day Haiti",
         background: "In 1665 King Louis XIV officially recognized Saint Dominigue as a French colony.",
         significance: "The significance of the French taking over Saint Dominigue has lasting effects. An incredible amount of African slaves were imported into Hispanola in the coming years, and this colony quickly became one the most profitable of all of the French colonies. This has had a lasting effect on the demographic in Haiti, that we see to this day."
+    },
+    {
+        key: "1680",
+        image: pic_1665,
+        heading: "Portugese create colony of Sacramento in Uruguay",
+        date: "1680",
+        location: "modern day Uruguay",
+        background: "Spanish territories in Uruguay had been giving Buenos Aires (under Portugese rule) competition in trade for years. Thus the Portugese founded this Colony, which is near the border and Buenos Aires. This allowed them to control the competition from this area, allowing Portugal more success.",
+        significance: "This was a significant event in the history of Latin America, as the competition between Spain and Portugal at this time set the basis for the impending Spanish-Portugese War. This was of course an important event in Latin American history and preceded the independence movements of Latin America."
     }
 ]
