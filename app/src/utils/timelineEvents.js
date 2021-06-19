@@ -13,6 +13,7 @@ import pic_1821 from '../utils/images/1821-mexico.jpg';
 import pic_1822 from '../utils/images/1822-brazil.jpg';
 import pic_1825 from '../utils/images/1825_bolivia.jpg';
 import pic_1904 from '../utils/images/1904-USA.jpg';
+import pic_1909 from '../utils/images/1909-banana.jpg';
 import pic_2000 from '../utils/images/2000-cochabamba.jpg';
 import pic_2001 from '../utils/images/2001-argentina.jpg';
 import pic_2005 from '../utils/images/2005-morales.jpg';
@@ -215,5 +216,50 @@ export const Events = [
         location: "Washington D.C., United States",
         background: "This doctrine first came into existence as a response to the Venezuela Crisis of 1902. In fear of Europeans returning to the Caribbean and interfering, the U.S. declared that we would act as the protectors of the Caribbean.",
         significance: "This Doctrine is significant because it began an era of the United States mingling in Latin America countries' orders. Though it may have been helpful in a preventative sense at the time, it laid precedent for what ended up being the United States acting for nations for years to come."
+    },
+    {
+        key: "1909",
+        image: pic_1909,
+        heading: "U.S begins military occupation of Dominican Republic, Haiti, and Nicaragua",
+        date: "1909-1933",
+        location: "Dominican Republic, Haiti, and Nicaragua",
+        background: "After the treaty declaring the U.S. as the protectorants of Latin America in 1904, and in the middle of the U.S. invasion of many Latin American countries.",
+        significance: "This is a significant step in Latin American history, because U.S. mingling in foreign affairs has been influencing Latin American demographics and government ever since. This is an example of the early days of the U.S. acting as a 'parent' or 'protector' of nations who never asked for such things."
+    },
+    {
+        key: "1952",
+        image: pic_1909,
+        heading: "Puerto Rico gains status as U.S. commonwealth",
+        date: "1952",
+        location: "",
+        background: "",
+        significance: ""
+    },
+    {
+        key: "1954",
+        image: pic_1909,
+        heading: "U.S. overthrows Guatemalan government",
+        date: "1952",
+        location: "",
+        background: "",
+        significance: ""
+    },
+    {
+        key: "1959",
+        image: pic_1909,
+        heading: "Cuban Revolution's Triumph",
+        date: "1952",
+        location: "",
+        background: "",
+        significance: ""
+    },
+    {
+        key: "1973",
+        image: pic_1909,
+        heading: "Chilean overthrown governmetn",
+        date: "1952",
+        location: "",
+        background: "arrested for human rights violations in england, killed thousands of opponents",
+        significance: ""
     }
 ]
