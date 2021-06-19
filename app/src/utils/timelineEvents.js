@@ -4,7 +4,15 @@ import pic_1498 from '../utils/images/colombus-venezuela.jpg';
 import pic_1500 from '../utils/images/1500-brazil.jpg';
 import pic_1550 from '../utils/images/1550-debate.jpg';
 import pic_1665 from '../utils/images/1665-haiti.jpg';
+import pic_1680 from '../utils/images/1680_uruguay.jpg';
 import pic_1776 from '../utils/images/1776-USA.jpg';
+import pic_1789 from '../utils/images/1789-France.jpg';
+import pic_1791 from '../utils/images/1791-haiti.jpg';
+import pic_1819 from '../utils/images/1819-southam.jpg';
+import pic_1821 from '../utils/images/1821-mexico.jpg';
+import pic_1822 from '../utils/images/1822-brazil.jpg';
+import pic_1825 from '../utils/images/1825_bolivia.jpg';
+import pic_1904 from '../utils/images/1904-USA.jpg';
 import pic_2000 from '../utils/images/2000-cochabamba.jpg';
 import pic_2001 from '../utils/images/2001-argentina.jpg';
 import pic_2005 from '../utils/images/2005-morales.jpg';
@@ -129,7 +137,7 @@ export const Events = [
     },
     {
         key: "1680",
-        image: pic_1665,
+        image: pic_1680,
         heading: "Portugese create colony of Sacramento in Uruguay",
         date: "1680",
         location: "modern day Uruguay",
@@ -137,12 +145,75 @@ export const Events = [
         significance: "This was a significant event in the history of Latin America, as the competition between Spain and Portugal at this time set the basis for the impending Spanish-Portugese War. This was of course an important event in Latin American history and preceded the independence movements of Latin America."
     },
     {
-        key: "11791",
+        key: "1791",
         image: pic_1791,
         heading: "Slave revolt in Saint Dominigue",
         date: "August 21st, 1791",
         location: "modern day Haiti",
-        background: "A group over self liberated slaves, led by Toussaint L'Ouverture, rose up against their Masters. Within 10 days, the slave army had taken over the entire Northern Province of the colony.",
-        significance: "This was a significant uprising, which led to the independence of Haiti."
+        background: "In May 1791, the French gave the right of freedom to people of color who were wealthy. This led to fighting between freed slaves and whites who refused to comply with the new laws. Tensions rose, leading to a group over self liberated slaves led by Toussaint L'Ouverture rising up against their Masters. Within 10 days, the slave army had taken over the entire Northern Province of the colony.",
+        significance: "This was a significant uprising, as it was the first group of people to make a major revolutionary attempt, starting the revolutionary wave. Where as America was a nation of free men revolting against their colonizers, Haiti was one of the early examples of a group of marginalized or enslaved people being the ones to rise up against their enslavers."
+    },
+    {
+        key: "1789",
+        image: pic_1789,
+        heading: "Storming of the Bastille (French Revolution)",
+        date: "July 14th, 1789",
+        location: "Paris, France",
+        background: "The French Revolution was a 10 year process that culminated in 1789. France saw a sharp rise in population, and thus changes in the economic and social demographics. The governments failure to handle this led to much distress in the communities, and led to an uprising against the government. The Storming of the Bastille was the turning point of the revolution, and it's date is independence day in france to this day.",
+        significance: "Though this occured in Europe and was not directly related to Latin America, its significance in the region was immense. The French and Thirteen Colonies' uprisings set the tone for the Revolutionary wave that followed in the next century."
+    },
+    {
+        key: "1804",
+        image: pic_1791,
+        heading: "Hispanola officially becomes the first Indpendent state in the Latin Americas",
+        date: "January 1st, 1804",
+        location: "Saint Dominigue, Hispanola",
+        background: "After an uprising which started in 1791, Dessalines (leader of the free Haititans) officially declared Haiti a free republic. This ended a years long battle, which saw devastation of the island and countless deaths.",
+        significance: "This was an incredibly significant event in the history of Latin America, as it was the first Latin American state to gain its freedom."
+    },
+    {
+        key: "1821",
+        image: pic_1821,
+        heading: "Mexican War of Independence",
+        date: "September 16th, 1810 - September 27th, 1821",
+        location: "Various parts of Mexico",
+        background: "The battle began as Miguel Hidalgo issued the Cry of Dolores, which led to struggles across Mexico for approximately a decade. On September 27th, a Mexican Army marched into Mexico City, and the Mexican Declaration of Independence was officially proclaimed.",
+        significance: "This continued the falling dominoes across Latin America, of nations realizing their indentities and rising against their colonizers to gain independence."
+    },
+    {
+        key: "1819",
+        image: pic_1819,
+        heading: "Wave of South American nations' declaring independence",
+        date: "1816 - 1819",
+        location: "Argetina, Colombia, Chile, Venezuela",
+        background: "In this short span of 3 years, 4 of what have become major Latin American countries today gained their independence from their colonizers.",
+        significance: "This continued the falling dominoes across Latin America, of nations realizing their indentities and rising against their colonizers to gain independence."
+    },
+    {
+        key: "1822",
+        image: pic_1822,
+        heading: "Brazil gains Independence from Portugal",
+        date: "September 7th, 1822",
+        location: "Sao Paulo, Brazil",
+        background: "When Napoleon and the French invaded Portugal, the royal family had no choice but to flee to their largest colony, Brazil, for safety. Rio de Janeiro and Brazil temporarily became the capital of the Portugese Empire until after the Napoleonic Wars. With the help and affection for Brazil the Royal family had gained during this period, King Pedro of Portugal elevated Brazil to an equal status nation next to Portugal.",
+        significance: "This continued the wave of Latin American Revolutions, but quite a unique one. Brazil became the nation to gain its independence with the least bloodshed of all, as no war was necessary."
+    },
+    {
+        key: "1825",
+        image: pic_1825,
+        heading: "Bolivian war of Independence",
+        date: "May 25th 1809 - August 6th, 1825",
+        location: "Upper Peru (modern day Bolivia)",
+        background: "Simon Boliviar, the leader of the movement that freed Bolivia and other neighboring nations, led a brilliant strategic battle against the Spanish which resulted in the freedom of many South American nations.",
+        significance: "This continued the wave of Latin American Revolutions, but fell towards the end. At this point, many nations had gained their independence, and colonizers were notice."
+    },
+    {
+        key: "1904",
+        image: pic_1904,
+        heading: "Corollary to the Monroe Doctrine declares the U.S. protectors of the Caribbean",
+        date: "1904",
+        location: "Washington D.C., United States",
+        background: "This doctrine first came into existence as a response to the Venezuela Crisis of 1902. In fear of Europeans returning to the Caribbean and interfering, the U.S. declared that we would act as the protectors of the Caribbean.",
+        significance: "This Doctrine is significant because it began an era of the United States mingling in Latin America countries' orders. Though it may have been helpful in a preventative sense at the time, it laid precedent for what ended up being the United States acting for nations for years to come."
     }
 ]
