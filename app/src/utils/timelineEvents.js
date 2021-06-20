@@ -14,6 +14,9 @@ import pic_1822 from '../utils/images/1822-brazil.jpg';
 import pic_1825 from '../utils/images/1825_bolivia.jpg';
 import pic_1904 from '../utils/images/1904-USA.jpg';
 import pic_1909 from '../utils/images/1909-banana.jpg';
+import pic_1954 from '../utils/images/1954-guatemala.jpg';
+import pic_1959 from '../utils/images/1959-cuba.jpg';
+import pic_1973 from '../utils/images/1973-chile.jpg';
 import pic_2000 from '../utils/images/2000-cochabamba.jpg';
 import pic_2001 from '../utils/images/2001-argentina.jpg';
 import pic_2005 from '../utils/images/2005-morales.jpg';
@@ -227,39 +230,30 @@ export const Events = [
         significance: "This is a significant step in Latin American history, because U.S. mingling in foreign affairs has been influencing Latin American demographics and government ever since. This is an example of the early days of the U.S. acting as a 'parent' or 'protector' of nations who never asked for such things."
     },
     {
-        key: "1952",
-        image: pic_1909,
-        heading: "Puerto Rico gains status as U.S. commonwealth",
-        date: "1952",
-        location: "",
-        background: "",
-        significance: ""
-    },
-    {
         key: "1954",
-        image: pic_1909,
+        image: pic_1954,
         heading: "U.S. overthrows Guatemalan government",
-        date: "1952",
-        location: "",
-        background: "",
-        significance: ""
+        date: "1954",
+        location: "Guatemala",
+        background: "The Guatemalan Revolution began in 1944, which saw the defeat of a military dictatorship and the election of the first democratic leader in Guatemalan history. In fear of communism leaking into the country during the cold war era, the U.S. government decided it was necessary to overthrow democratically-elected president Arbenz, who had allegedly shown disposition towards communism. The CIA helped carry out a covert Coup, and reinstalled a military dictatorship.",
+        significance: "This is a significant step in Latin American history, as it marks the beginning of the U.S.'s mid 20th century coups against Latin American leaders in favor of hand picked candidates by the U.S. This continued with dangerous precedent, and in many cases the countries we left behind became war ridden and suffered massive setbacks by U.S. intervention. This is a different type of invasion than was seen in previous centuries, but the damage the U.S. caused these nations by destroying their governments and leaving nothing better behind is still prominent today."
     },
     {
         key: "1959",
-        image: pic_1909,
+        image: pic_1959,
         heading: "Cuban Revolution's Triumph",
-        date: "1952",
-        location: "",
-        background: "",
-        significance: ""
+        date: "1959",
+        location: "Cuba",
+        background: "The Cuban revolution saw the overthrowing of Dictator Batista's government by Fidel Castro's revolutionaries. The U.S. immediately tied Castro to communism, and after he took power begain planning 'Operation Mongoose' to assassinate Fidel Castro. This led to the U.S. ending diplomatic ties with Cuba, the failure of the Bay of Pigs, and the Cuban Missile Crisis of 1962.",
+        significance: "Another significant example of the U.S. attempting to overthrow foreign governments was the U.S. intervention in Cuba. This is one of the scariest, most notable of the U.S. attempted coups in Latin America. The U.S. and Cuba have a scarred relationship to this day from this event, yet one could argue that Cuba suffered the least out of all the Latin American countries which the U.S. mingled within (which says something)."
     },
     {
         key: "1973",
-        image: pic_1909,
-        heading: "Chilean overthrown governmetn",
-        date: "1952",
-        location: "",
-        background: "arrested for human rights violations in england, killed thousands of opponents",
-        significance: ""
+        image: pic_1973,
+        heading: "U.S. assists in overthrowing the Chilean Government",
+        date: "September 11th, 1973",
+        location: "Chile",
+        background: "During the attempted overthrowing of the Allende government in Chile by General Augusto, the U.S. showed heavy support for Augusto. The U.S. supported the coup until tension rose in 1973, and the U.S. declared economic war against Chile. This was the final straw in Augusto, the candidate we supported, taking control. After the U.S. put Augusto in power and left the region, Augusto killed thousand of people who opposed him during the coup. Decades later, Augusto was arrested in England for the human rights violations he committed as leader of Chile.",
+        significance: "One of the most horrifying interventions by the U.S. is our intervention in Chile. After ensuring Augusto's revolution was successful, the U.S. essentially abandoned the region. Augusto was an evil leader who committed many atrocities using the power that the United States gave him. This is another example of the United States mingling in other countries' business, and the negative backlash in this case is clear."
     }
 ]
