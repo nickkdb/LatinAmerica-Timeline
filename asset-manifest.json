@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/LatinAmerica-Timeline/static/css/main.dac223f1.chunk.css",
-    "main.js": "/LatinAmerica-Timeline/static/js/main.c63f25f7.chunk.js",
-    "main.js.map": "/LatinAmerica-Timeline/static/js/main.c63f25f7.chunk.js.map",
+    "main.js": "/LatinAmerica-Timeline/static/js/main.499ee54d.chunk.js",
+    "main.js.map": "/LatinAmerica-Timeline/static/js/main.499ee54d.chunk.js.map",
     "runtime-main.js": "/LatinAmerica-Timeline/static/js/runtime-main.b9da2276.js",
     "runtime-main.js.map": "/LatinAmerica-Timeline/static/js/runtime-main.b9da2276.js.map",
     "static/js/2.7fa0be3b.chunk.js": "/LatinAmerica-Timeline/static/js/2.7fa0be3b.chunk.js",
@@ -12,8 +12,29 @@
     "index.html": "/LatinAmerica-Timeline/index.html",
     "static/css/main.dac223f1.chunk.css.map": "/LatinAmerica-Timeline/static/css/main.dac223f1.chunk.css.map",
     "static/js/2.7fa0be3b.chunk.js.LICENSE.txt": "/LatinAmerica-Timeline/static/js/2.7fa0be3b.chunk.js.LICENSE.txt",
+    "static/media/1494-tordesillas.dffde1cb.jpg": "/LatinAmerica-Timeline/static/media/1494-tordesillas.dffde1cb.jpg",
+    "static/media/1496-domingo.4476ceb5.jpg": "/LatinAmerica-Timeline/static/media/1496-domingo.4476ceb5.jpg",
+    "static/media/1500-brazil.44541b7d.jpg": "/LatinAmerica-Timeline/static/media/1500-brazil.44541b7d.jpg",
+    "static/media/1521-Aztecs.8f91eb8b.jpg": "/LatinAmerica-Timeline/static/media/1521-Aztecs.8f91eb8b.jpg",
+    "static/media/1532-Incans.5d7b0966.jpg": "/LatinAmerica-Timeline/static/media/1532-Incans.5d7b0966.jpg",
+    "static/media/1550-debate.002ae411.jpg": "/LatinAmerica-Timeline/static/media/1550-debate.002ae411.jpg",
+    "static/media/1665-haiti.9035a31e.jpg": "/LatinAmerica-Timeline/static/media/1665-haiti.9035a31e.jpg",
+    "static/media/1680_uruguay.6bbfa9c8.jpg": "/LatinAmerica-Timeline/static/media/1680_uruguay.6bbfa9c8.jpg",
     "static/media/1776-USA.f135b58d.jpg": "/LatinAmerica-Timeline/static/media/1776-USA.f135b58d.jpg",
+    "static/media/1789-France.91ccced4.jpg": "/LatinAmerica-Timeline/static/media/1789-France.91ccced4.jpg",
+    "static/media/1791-haiti.0c76f27a.jpg": "/LatinAmerica-Timeline/static/media/1791-haiti.0c76f27a.jpg",
+    "static/media/1819-southam.1ab7678e.jpg": "/LatinAmerica-Timeline/static/media/1819-southam.1ab7678e.jpg",
+    "static/media/1821-mexico.94d6be88.jpg": "/LatinAmerica-Timeline/static/media/1821-mexico.94d6be88.jpg",
+    "static/media/1822-brazil.a5b31ef7.jpg": "/LatinAmerica-Timeline/static/media/1822-brazil.a5b31ef7.jpg",
+    "static/media/1825_bolivia.36d6d1d6.jpg": "/LatinAmerica-Timeline/static/media/1825_bolivia.36d6d1d6.jpg",
+    "static/media/1904-USA.d7e4c913.jpg": "/LatinAmerica-Timeline/static/media/1904-USA.d7e4c913.jpg",
+    "static/media/1909-banana.7452b652.jpg": "/LatinAmerica-Timeline/static/media/1909-banana.7452b652.jpg",
+    "static/media/1954-guatemala.09e9c55e.jpg": "/LatinAmerica-Timeline/static/media/1954-guatemala.09e9c55e.jpg",
+    "static/media/1959-cuba.9aa35ca2.jpg": "/LatinAmerica-Timeline/static/media/1959-cuba.9aa35ca2.jpg",
+    "static/media/1973-chile.7aedc439.jpg": "/LatinAmerica-Timeline/static/media/1973-chile.7aedc439.jpg",
+    "static/media/2000-cochabamba.8ff76f8f.jpg": "/LatinAmerica-Timeline/static/media/2000-cochabamba.8ff76f8f.jpg",
     "static/media/2001-argentina.0fb44eca.jpg": "/LatinAmerica-Timeline/static/media/2001-argentina.0fb44eca.jpg",
+    "static/media/2005-morales.45d4ff8c.jpg": "/LatinAmerica-Timeline/static/media/2005-morales.45d4ff8c.jpg",
     "static/media/colombus-venezuela.1bbb6458.jpg": "/LatinAmerica-Timeline/static/media/colombus-venezuela.1bbb6458.jpg",
     "static/media/latinAm.e9efbb8e.jpg": "/LatinAmerica-Timeline/static/media/latinAm.e9efbb8e.jpg",
     "static/media/logo.6ce24c58.svg": "/LatinAmerica-Timeline/static/media/logo.6ce24c58.svg"
@@ -22,6 +43,6 @@
     "static/js/runtime-main.b9da2276.js",
     "static/js/2.7fa0be3b.chunk.js",
     "static/css/main.dac223f1.chunk.css",
-    "static/js/main.c63f25f7.chunk.js"
+    "static/js/main.499ee54d.chunk.js"
   ]
 }
